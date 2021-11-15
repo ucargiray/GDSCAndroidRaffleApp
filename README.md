@@ -1,7 +1,7 @@
 # AndroidRaffleApp
 
 ## Description
-Bugdroid event's second day live coding raffle project. 
+Bugdroid event's second day live coding raffle project. All written in Kotlin.
 
 <br>
 
